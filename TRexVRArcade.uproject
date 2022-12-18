@@ -20,6 +20,10 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "ElectraPlayer",
+			"Enabled": true
 		}
 	]
 }
